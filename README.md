@@ -13,15 +13,14 @@ I spent three years running charging systems for Sri Lanka's largest mobile oper
 - 🎓 **MSc, Communications Engineering**, Aalto University (started 2025/26)
 - 🎓 **BSc, Electrical Engineering** (signal processing and communication engineering)
 - 📍 Espoo / Helsinki area, Finland
-- 🎯 Aiming for **AI Engineer / Forward Deployed Engineer** roles
 
 ## 🌱 Currently learning
 
-- **Python**, from the fundamentals up
+- **Python**
 - **LLMs and AI fundamentals**
 - **Claude and Claude Code**, plus prompt engineering
-- **Git and GitHub**, one commit at a time
-- Aalto courses: Wireless Systems · Networked Systems · Ambient Intelligence · Finnish 1
+- **Git and GitHub**
+- Aalto courses: Wireless Systems · Networked Systems · Ambient Intelligence · Finnish Language
 
 ## 💼 Experience highlights
 
@@ -61,9 +60,6 @@ Worked on the **Online Charging System (OCS)**, mainly **Huawei OCS**.
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🏅 Certifications
-
-- **AI Fluency: Framework & Foundations**, Anthropic Academy (Oct 2026)
 
 ## 📫 Contact
 
