@@ -1,6 +1,6 @@
 # Hi, I'm Imashi 👋
 
-### AI Focused Telecom Specialized Engineer
+### Telecom Engineer · Building AI for Networks and Charging
 
 Master's student at **Aalto University** (Communications Engineering), based in Finland 🇫🇮 · originally from Sri Lanka 🇱🇰 · she/her
 
