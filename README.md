@@ -1,6 +1,6 @@
 # Hi, I'm Imashi 👋
 
-### Telecom Engineer · Building AI for Networks and Charging
+### Telecom & DevOps Engineer, Learning to Build AI Agents
 
 Master's student at **Aalto University** (Communications Engineering), based in Finland 🇫🇮 · originally from Sri Lanka 🇱🇰 · she/her
 
